@@ -1,0 +1,16 @@
+"Reference","Value","Qty","MPN","PACKAGE","SUPPLIER","Description","Manufacturer","Supplier2 Part Number","Supplier Part Number","SUPPLIER2"
+"C1,C4,C7,C10,C13","1µF","5",,"0805",,"Unpolarized capacitor",,,,
+"C2,C3,C5,C6,C8,C9,C11,C12,C14,C15,C16,C17,C19,C20,C22,C23","100nF","16",,"0603",,"Unpolarized capacitor",,,,
+"C18,C21,C24","10µF","3",,"0805",,"Unpolarized capacitor",,,,
+"J1","Conn_02x05_Odd_Even","1",,,"Digikey, AliExpress, eBay","Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",,,,
+"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22,R23,R24,R26,R27,R28,R29,R30,R31,R32,R33","10k","32",,"0603",,"Resistor, US symbol",,,,
+"R25","22","1",,"0603",,"Resistor, US symbol",,,,
+"U1","Z8001P","1",,"DIP-48","eBay","CPU",,,,
+"U2","CY62157ELL-45ZSXI","1",,"TSOP-II-44","Digikey",,"Infineon","2767919","448-CY62157ELL-45ZSXI-ND","Farnell UK"
+"U3","EPM7128STC100-15","1","EPM7128STC100-15","1100-TQFP","AliExpress, eBay",,"Altera/Intel",,,
+"U4","6116","1",,"DIP-24","eBay, AliExpress",,,,,
+"U5,U6","74LS373","2",,"DIP-20","Digikey, AliExpress, eBay","8-bit Latch, 3-state outputs",,,,
+"U7,U8","2716","2",,"DIP-24","-- valeurs mixées --",,,,,
+"U9","Z8581","1",,"DIP-18","AliExpress, eBay",,,,,
+"U12,U13","74LS245","2",,"DIP-20","Digikey, AliExpress, eBay","Octal BUS Transceivers, 3-State outputs",,,,
+"Y1","12 MHz","1",,"HC49-U","Digikey, AliExpress","Two pin crystal",,,,

@@ -80189,6 +80189,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0805\""
+			(at 167.64 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "135d609c-7327-480d-80d9-0952d642d4c5")
 		)
@@ -80316,6 +80325,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 205.74 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 205.74 245.11 0)
 			(effects
 				(font
@@ -80458,6 +80476,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 175.26 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e8b8b1dd-7ddf-4fcb-9817-9398e6c57353")
 		)
@@ -80522,6 +80549,24 @@
 		)
 		(property "Description" ""
 			(at 190.5 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "AliExpress, eBay"
+			(at 180.34 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-24"
+			(at 180.34 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -80727,6 +80772,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 217.17 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "61dcbb45-0ab6-408e-973c-871d1e065bd5")
 		)
@@ -80788,6 +80842,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 388.62 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "Digikey, AliExpress, eBay"
+			(at 388.62 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-24"
 			(at 388.62 160.02 0)
 			(effects
 				(font
@@ -80987,8 +81059,26 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CPU"
 			(at 60.96 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "eBay"
+			(at 38.1 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-48"
+			(at 38.1 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -81204,6 +81294,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 170.18 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "52f1fba4-47c0-42b0-9fc3-acc7290aa802")
 		)
@@ -81328,6 +81427,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 101.6 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 101.6 33.02 0)
 			(effects
 				(font
@@ -81471,6 +81579,24 @@
 				(hide yes)
 			)
 		)
+		(property "SUPPLIER" "AliExpress, eBay"
+			(at 396.24 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-18"
+			(at 396.24 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "42703220-c7ee-4944-ad67-78f4343c8625")
 		)
@@ -81586,6 +81712,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 101.6 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "545eea7c-c3fe-4564-9def-31566ebc35d8")
 		)
@@ -81648,6 +81783,24 @@
 			)
 		)
 		(property "Description" "Octal BUS Transceivers, 3-State outputs"
+			(at 384.81 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "Digikey, AliExpress, eBay"
+			(at 384.81 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-20"
 			(at 384.81 205.74 0)
 			(effects
 				(font
@@ -81777,6 +81930,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 402.59 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7d2924e-4533-4d4d-9216-31b4379248b6")
 		)
@@ -81836,6 +81998,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 69.85 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 69.85 57.15 0)
 			(effects
 				(font
@@ -81913,6 +82084,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0805\""
+			(at 182.88 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "17214d8e-bfcd-4a8b-ac4f-287ce5e2ad43")
 		)
@@ -81972,6 +82152,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 101.6 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 101.6 35.56 0)
 			(effects
 				(font
@@ -82049,6 +82238,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 167.64 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "31d1dfa2-4bcb-45e8-9601-45bb259d4367")
 		)
@@ -82108,6 +82306,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 101.6 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 101.6 101.6 0)
 			(effects
 				(font
@@ -82393,7 +82600,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER" "ALTERA"
+		(property "SUPPLIER" "AliExpress, eBay"
 			(at 293.37 228.6 0)
 			(effects
 				(font
@@ -82430,6 +82637,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Altera/Intel"
+			(at 283.21 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -82796,6 +83012,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 198.12 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a7e4225-b64a-4462-b0aa-2f767b1b1026")
 		)
@@ -82928,6 +83153,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 402.59 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "57e8b8cd-191a-4652-b545-3a3b58b90d25")
 		)
@@ -82989,6 +83223,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 175.26 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 175.26 245.11 0)
 			(effects
 				(font
@@ -83066,6 +83309,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 152.4 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0b045578-59a5-4ed5-ab86-6eb617ae2f8b")
 		)
@@ -83125,6 +83377,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 101.6 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 101.6 99.06 0)
 			(effects
 				(font
@@ -83266,6 +83527,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 31.75 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9167afd4-ce28-4086-82f9-b61d6a2b960d")
 		)
@@ -83335,6 +83605,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 205.74 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95b0c4b9-ad02-49d0-a031-9c9ed0b4f4e5")
 		)
@@ -83394,6 +83673,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 101.6 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 101.6 88.9 0)
 			(effects
 				(font
@@ -83601,6 +83889,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 182.88 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2c590c1e-c0e2-48c5-a21f-90ff6b2d10c7")
 		)
@@ -83747,7 +84044,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER" "ALTERA"
+		(property "SUPPLIER" "AliExpress, eBay"
 			(at 111.76 220.98 0)
 			(effects
 				(font
@@ -83784,6 +84081,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Altera/Intel"
+			(at 101.6 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -84148,6 +84454,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 31.75 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e5ff2d6f-c548-4b61-a12a-2a755b35f7c9")
 		)
@@ -84211,6 +84526,60 @@
 		)
 		(property "Description" ""
 			(at 31.75 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "Digikey"
+			(at 39.37 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier Part Number" "448-CY62157ELL-45ZSXI-ND"
+			(at 39.37 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER2" "Farnell UK"
+			(at 39.37 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Supplier2 Part Number" "2767919"
+			(at 39.37 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Infineon"
+			(at 39.37 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "TSOP-II-44"
+			(at 39.37 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84411,6 +84780,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 101.6 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cd64d2ff-99df-4db2-84a4-aa9659b30d76")
 		)
@@ -84463,7 +84841,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd54hc373.pdf"
+		(property "Datasheet" ""
 			(at 129.54 99.06 0)
 			(effects
 				(font
@@ -84473,6 +84851,24 @@
 			)
 		)
 		(property "Description" "8-bit Latch, 3-state outputs"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "Digikey, AliExpress, eBay"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-20"
 			(at 129.54 99.06 0)
 			(effects
 				(font
@@ -84555,7 +84951,7 @@
 		(at 406.4 241.3 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5d9382ee-d7ca-4220-95d5-3e7a91aa2379")
@@ -84677,6 +85073,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 160.02 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80ae6df3-2b19-46d8-9ee0-339974842c81")
 		)
@@ -84736,6 +85141,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 170.18 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 170.18 181.61 0)
 			(effects
 				(font
@@ -84811,6 +85225,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 101.6 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d37ecbf-96ea-4010-af46-c9dbf4f5feb2")
 		)
@@ -84870,6 +85293,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 101.6 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 101.6 96.52 0)
 			(effects
 				(font
@@ -84947,6 +85379,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 190.5 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46ba9fb4-a0fe-43db-b9fd-d3a1f38f71b4")
 		)
@@ -85007,6 +85448,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 53.34 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "Digikey, AliExpress, eBay"
 			(at 53.34 140.97 0)
 			(effects
 				(font
@@ -85236,6 +85686,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "34db6574-042d-47cd-970a-5dc7f21b9d98")
 		)
@@ -85297,6 +85756,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 403.86 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "eBay, AliExpress"
+			(at 403.86 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-24"
 			(at 403.86 149.86 0)
 			(effects
 				(font
@@ -85439,6 +85916,24 @@
 				(hide yes)
 			)
 		)
+		(property "SUPPLIER" "Digikey, AliExpress"
+			(at 215.9 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "HC49-U"
+			(at 215.9 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "66433dcd-e681-4db0-864c-9fd89b183f7f")
 		)
@@ -85571,6 +86066,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 402.59 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d04bdc58-d6f2-4653-aa36-db2042c121b3")
 		)
@@ -85632,6 +86136,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 186.69 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "AliExpress, eBay"
+			(at 186.69 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-18"
 			(at 186.69 158.75 0)
 			(effects
 				(font
@@ -85755,6 +86277,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 31.75 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d95f888c-7336-4090-9d5c-ba834b38f591")
 		)
@@ -85814,6 +86345,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 101.6 38.1 0)
 			(effects
 				(font
@@ -86023,6 +86563,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0805\""
+			(at 152.4 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b3ea1a1-54bd-4ae7-9f76-67a759973db0")
 		)
@@ -86150,6 +86699,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 198.12 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 198.12 224.79 0)
 			(effects
 				(font
@@ -86293,6 +86851,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0805\""
+			(at 200.66 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "597fbc25-46d7-49db-a78a-70684b9bfde6")
 		)
@@ -86362,6 +86929,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0805\""
+			(at 193.04 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ef22599a-aa15-433f-9e6d-a74aa00da2dc")
 		)
@@ -86421,6 +86997,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 101.6 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 101.6 93.98 0)
 			(effects
 				(font
@@ -86692,6 +87277,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 402.59 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "877dd84f-f9d9-44db-b958-249ade1db2d6")
 		)
@@ -86771,7 +87365,7 @@
 				(hide yes)
 			)
 		)
-		(property "SUPPLIER" "ALTERA"
+		(property "SUPPLIER" "AliExpress, eBay"
 			(at 246.38 38.1 0)
 			(effects
 				(font
@@ -86808,6 +87402,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Altera/Intel"
+			(at 236.22 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -87240,6 +87843,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0805\""
+			(at 208.28 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6abca05d-16d2-472e-b261-3237cd084119")
 		)
@@ -87307,6 +87919,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 101.6 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f0359ac4-6198-44d8-95bd-cd74c9e406b0")
 		)
@@ -87327,7 +87948,7 @@
 		(at 317.5 246.38 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -87432,6 +88053,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 152.4 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 152.4 224.79 0)
 			(effects
 				(font
@@ -87710,6 +88340,24 @@
 				(hide yes)
 			)
 		)
+		(property "SUPPLIER" "eBay, AliExpress"
+			(at 287.02 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-24"
+			(at 287.02 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "24"
 			(uuid "1af6c65d-ad2e-42f8-a78e-0e2b1543de0e")
 		)
@@ -87894,7 +88542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74HC245"
+		(property "Datasheet" ""
 			(at 351.79 205.74 0)
 			(effects
 				(font
@@ -87904,6 +88552,24 @@
 			)
 		)
 		(property "Description" "Octal BUS Transceivers, 3-State outputs"
+			(at 351.79 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "Digikey, AliExpress, eBay"
+			(at 351.79 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-20"
 			(at 351.79 205.74 0)
 			(effects
 				(font
@@ -88035,6 +88701,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0805\""
+			(at 160.02 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "add2c425-4bbb-4f2d-b501-3272c8bef78e")
 		)
@@ -88094,6 +88769,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 170.18 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 170.18 161.29 0)
 			(effects
 				(font
@@ -88171,6 +88855,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 190.5 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c9cd93b-8ce0-42f4-8e4e-7946024bc2ce")
 		)
@@ -88232,6 +88925,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 182.88 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 182.88 224.79 0)
 			(effects
 				(font
@@ -88373,6 +89075,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 402.59 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5fba7a78-09eb-46d1-8421-e7fed5cf7a54")
 		)
@@ -88432,6 +89143,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 402.59 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 402.59 38.1 0)
 			(effects
 				(font
@@ -88509,6 +89229,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 167.64 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9b35a218-070c-4560-b1ce-f16ae6001d4b")
 		)
@@ -88529,7 +89258,7 @@
 		(at 363.22 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -88826,6 +89555,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0805\""
+			(at 175.26 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "29cb5147-fc55-448a-825c-66411345a3f2")
 		)
@@ -88958,6 +89696,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 402.59 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa7942b0-b23a-40e8-acc1-74f8522db3df")
 		)
@@ -89025,6 +89772,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 101.6 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dca9d8ec-9d45-4802-9be6-70bd918db61f")
 		)
@@ -89084,6 +89840,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 101.6 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 101.6 45.72 0)
 			(effects
 				(font
@@ -89359,6 +90124,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 160.02 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65078a26-ea53-4d04-a2aa-e252703e52d3")
 		)
@@ -89420,8 +90194,26 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CPU"
 			(at 396.24 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "eBay"
+			(at 373.38 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-48"
+			(at 373.38 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -89641,6 +90433,24 @@
 				(hide yes)
 			)
 		)
+		(property "SUPPLIER" "Digikey, AliExpress, eBay"
+			(at 180.34 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-24"
+			(at 180.34 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "11"
 			(uuid "0a3b0db0-41e0-43ed-9bf8-f04933b65f38")
 		)
@@ -89839,6 +90649,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 101.6 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b8a09537-88b2-42ff-a373-c8141b476014")
 		)
@@ -89902,6 +90721,24 @@
 		)
 		(property "Description" ""
 			(at 391.16 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "AliExpress, eBay"
+			(at 381 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-24"
+			(at 381 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -90162,7 +90999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/cd54hc373.pdf"
+		(property "Datasheet" ""
 			(at 129.54 45.72 0)
 			(effects
 				(font
@@ -90172,6 +91009,24 @@
 			)
 		)
 		(property "Description" "8-bit Latch, 3-state outputs"
+			(at 129.54 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER" "Digikey, AliExpress, eBay"
+			(at 129.54 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "DIP-20"
 			(at 129.54 45.72 0)
 			(effects
 				(font
@@ -90366,6 +91221,15 @@
 				(hide yes)
 			)
 		)
+		(property "PACKAGE" "\"0603\""
+			(at 402.59 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d4c97a7-63f7-419a-aad6-39e875e81da4")
 		)
@@ -90425,6 +91289,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 31.75 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "\"0603\""
 			(at 31.75 140.97 0)
 			(effects
 				(font
